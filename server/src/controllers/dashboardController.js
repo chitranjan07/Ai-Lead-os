@@ -1,7 +1,7 @@
 import { Lead } from '../models/Lead.js';
 import { FollowUp } from '../models/FollowUp.js';
 
-export async function dashboard(req, res, next) {
+export async function dashboard(req, res, next) { 
   try {
     const [total, active, highPriority, pendingApproval, sent] = await Promise.all([
       Lead.countDocuments(),

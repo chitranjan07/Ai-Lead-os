@@ -1,0 +1,13 @@
+leadId,name,email,phone,course,source,stage,formStatus,lastMessage
+L101,Chitranjan Singh,chitranjansingh176@gmail.com,,B.Tech CSE,CollegeDunia,INTERESTED,High,I am interested in B.Tech CSE. I will discuss it with my parents and get back to you.
+L102,Aarav Sharma,aarav.sharma@example.com,9000001002,B.Tech CSE,CollegeDekho,INTERESTED,NOT_FILLED,I am interested in CSE and want to know about the admission process.
+L103,Priya Kumari,priya.kumari@example.com,9000001003,BCA,CollegeDunia,DISCUSSION_PENDING,NOT_FILLED,I need to discuss the course with my family before I decide.
+L104,Rohan Verma,rohan.verma@example.com,9000001004,B.Tech Mechanical,CollegeDekho,INTERESTED,NOT_FILLED,The course looks good but I am concerned about the fees.
+L105,Ananya Singh,ananya.singh@example.com,9000001005,B.Tech ECE,CollegeDunia,CONTACTED,NOT_FILLED,Please send me the detailed course and admission information.
+L106,Vikram Das,vikram.das@example.com,9000001006,BCA,CollegeDekho,FORM_FILLED,FORM_FILLED,I have filled the form. What should I do next regarding the registration fee?
+L107,Neha Gupta,neha.gupta@example.com,9000001007,B.Tech CSE,CollegeDunia,REGISTRATION_PENDING,FORM_FILLED,I completed the form. I will arrange the registration fee in two days.
+L108,Karan Mehta,karan.mehta@example.com,9000001008,B.Tech Civil,CollegeDekho,NO_RESPONSE,NOT_FILLED,I will check the details and let you know.
+L109,Sneha Patel,sneha.patel@example.com,9000001009,B.Tech CSE,CollegeDunia,INTERESTED,NOT_FILLED,Can you explain the placement opportunities and internship details?
+L110,Aditya Rao,aditya.rao@example.com,9000001010,BBA,CollegeDekho,NOT_INTERESTED,NOT_FILLED,I have decided not to continue with the admission for now.
+L111,Meera Joshi,meera.joshi@example.com,9000001011,B.Tech IT,CollegeDunia,INTERESTED,NOT_FILLED,I am comparing a few colleges and will make a decision soon.
+L112,Rahul Sinha,rahul.sinha@example.com,9000001012,B.Tech CSE,CollegeDekho,FORM_FILLED,FORM_FILLED,My application form is complete. Please share the next steps.

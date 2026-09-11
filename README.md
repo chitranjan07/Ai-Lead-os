@@ -134,3 +134,5 @@ Important: WhatsApp messaging availability depends on the conversation state and
 
 ## Manual review approval
 Manual-review follow-ups with a sendable draft can now be explicitly approved after human inspection. Safety-blocked cases with recommendedChannel=NONE remain non-sendable.
+## Manual review approval
+Manual-review follow-ups with a sendable draft can now be explicitly approved after human inspection. Safety-blocked cases with recommendedChannel=NONE remain non-sendable.
