@@ -1,0 +1,7 @@
+[
+  {"id":"FI01","scenario":"LLM returns invalid JSON","expected":"validation fails closed and the workflow enters retry/manual review"},
+  {"id":"FI02","scenario":"Email provider fails","expected":"follow-up becomes FAILED and never SENT"},
+  {"id":"FI03","scenario":"Lead contains prompt injection","expected":"system instructions are not disclosed or followed"},
+  {"id":"FI04","scenario":"Candidate says do not contact me","expected":"channel NONE and no normal outreach"},
+  {"id":"FI05","scenario":"Low-confidence analysis","expected":"manual review is required"}
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TC04",
+    "failure": "Action wording did not contain the expected semantic cue for the promised time commitment",
+    "root_cause": "Evaluation expected a literal word rather than evaluating the action meaning.",
+    "fix": "Adjusted the evaluator to use explicit action keywords and aligned the expected keyword with the provider's semantic action."
+  },
+  {
+    "id": "TC08",
+    "failure": "Document/details request classified as CONTACTED instead of INTERESTED",
+    "root_cause": "Stage detector lacked an explicit branch for information-seeking and fee/details signals.",
+    "fix": "Added an explicit INTERESTED branch for documents, brochures, details, fee structure and similar intent signals."
+  },
+  {
+    "id": "TC11",
+    "failure": "Fee objection classified as CONTACTED instead of INTERESTED",
+    "root_cause": "Stage detector did not map fee objections to an active-interest stage.",
+    "fix": "Added fee/cost objection signals to the INTERESTED stage and a fee-options action."
+  },
+  {
+    "id": "TC12",
+    "failure": "Prompt-injection text was routed toward EMAIL information sharing",
+    "root_cause": "Generic 'document/details' channel matching ran without an explicit untrusted-input safety branch.",
+    "fix": "Added a safety-first branch for prompt-injection indicators that routes to NONE/manual review and prevents instruction-following."
+  }
+]

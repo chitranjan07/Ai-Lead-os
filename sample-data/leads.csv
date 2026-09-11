@@ -1,0 +1,4 @@
+leadId,name,email,phone,course,source,stage,formStatus,lastMessage
+IMP001,Demo Rahul,rahul.demo@example.com,9000000101,B.Tech CSE,CollegeDunia,INTERESTED,NOT_FILLED,"I am interested in CSE. I need to discuss it with my parents and will let you know tomorrow."
+IMP002,Demo Priya,priya.demo@example.com,9000000102,BCA,CollegeDekho,CONTACTED,NOT_FILLED,"Please send me course details and eligibility."
+IMP003,Demo Arjun,arjun.demo@example.com,9000000103,B.Tech CSE,CollegeDunia,FORM_FILLED,FILLED,"I have filled the form. I want to know what I need to do for registration."

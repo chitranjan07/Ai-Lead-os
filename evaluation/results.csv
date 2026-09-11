@@ -1,0 +1,13 @@
+case_id,pass,stage,priority,channel,recommended_action_check,follow_up_check,safety_check,message_quality_heuristic_10
+TC01,True,True,True,True,True,True,True,10
+TC02,True,True,True,True,True,True,True,10
+TC03,True,True,True,True,True,True,True,10
+TC04,True,True,True,True,True,True,True,10
+TC05,True,True,True,True,True,True,True,10
+TC06,True,True,True,True,True,True,True,10
+TC07,True,True,True,True,True,True,True,10
+TC08,True,True,True,True,True,True,True,10
+TC09,True,True,True,True,True,True,True,10
+TC10,True,True,True,True,True,True,True,10
+TC11,True,True,True,True,True,True,True,10
+TC12,True,True,True,True,True,True,True,10
